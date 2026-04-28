@@ -135,3 +135,6 @@ cython_debug/
 
 # AI agents
 .claude/
+
+# Debian packaging
+/debian/
