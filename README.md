@@ -38,7 +38,7 @@ Here is a table comparing Ludic to other similar tools:
 | Backend framework           | [Starlette](https://www.starlette.io), [FastAPI](https://fastapi.tiangolo.com/), [Django](https://www.djangoproject.com/)*  | [FastAPI](https://fastapi.tiangolo.com) | [FastAPI](https://fastapi.tiangolo.com) |
 | Client-Server Communication | [HTML + REST](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/) | [JSON + REST](https://github.com/pydantic/FastUI?tab=readme-ov-file#the-principle-long-version) | [WebSockets](https://reflex.dev/blog/2024-03-21-reflex-architecture/) |
 
-<sup>(*) HTMX as well as Starlette, FastAPI and Django are optional dependencies for Ludic, it does not enforce any frontend or backend frameworks. At it's core, Ludic only generates HTML and allows registering CSS.</sup>
+<sup>(*) HTMX as well as Starlette, FastAPI and Django are optional dependencies for Ludic, it does not enforce any frontend or backend frameworks. At its core, Ludic only generates HTML and allows registering CSS.</sup>
 
 ## Motivation
 
